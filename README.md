@@ -1,2 +1,2 @@
-# Credit-Risk-Model
-Part of Home Credit - Credit Risk Model Stability Kaggle Competition
+# Flood-Prediction-Model
+Part of Regression with a Flood Prediction Dataset Kaggle Competition
